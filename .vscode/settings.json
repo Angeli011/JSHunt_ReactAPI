@@ -1,0 +1,7 @@
+{
+	"workbench.tree.indent": 6,
+	"editor.tabSize": 2,
+	"editor.wrappingIndent": "deepIndent",
+	"workbench.settings.editor": "json",
+	"editor.detectIndentation": false
+}
